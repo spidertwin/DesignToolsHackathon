@@ -1,0 +1,25 @@
+{
+    "id": "02e81adb",
+    "name": "Quotation plugin",
+    "description": "Recommends succinct quotations based on word choice.",
+    "version" : "0.0.1",
+    "host": 
+    {
+        "app": "XD",
+        "minVersion": "13.0.0"
+    },
+    "uiEntryPoints": 
+    [
+        {
+            "type": "menu",
+            "label": {
+                "default": "Quotedienne",
+                "fr": "Quotedienne",
+                "de": "Quotedienne"
+            },
+            "commandId": "readTextFromFile",
+            "shortcut" : {"mac": "Cmd+p"}
+
+        }
+    ]
+}
