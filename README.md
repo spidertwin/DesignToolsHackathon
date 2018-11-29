@@ -1,7 +1,6 @@
 # DesignToolsHackathon
 Our project from the Design Tools Hackathon held at Wix Offices, Tel Aviv
 
-<br/>
 ---------------
 
 Quotedienne demo - https://youtu.be/STOLsEserPc <br/>
